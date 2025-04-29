@@ -1,0 +1,16 @@
+{
+  "name": "white-noise-machine-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JeremyLuo",
+  "license": "MIT",
+  "repository": {
+    // 代码托管位置
+    "type": "git",
+    "url": "https://github.com/yuanzhuixun/white-noise-machine"
+  },
+  "description": "White Noise Machine common Tuya component"
+}
