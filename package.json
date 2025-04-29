@@ -8,7 +8,6 @@
   "author": "JeremyLuo",
   "license": "MIT",
   "repository": {
-    // 代码托管位置
     "type": "git",
     "url": "https://github.com/yuanzhuixun/white-noise-machine"
   },
