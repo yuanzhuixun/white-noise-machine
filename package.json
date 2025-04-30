@@ -2,6 +2,9 @@
   "name": "white-noise-machine-component",
   "version": "1.0.0",
   "main": "lib/index",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
